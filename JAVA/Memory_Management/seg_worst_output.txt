@@ -1,0 +1,688 @@
+**********************
+Contiguous - First Fit
+**********************
+ID:   P1 	 Memory: 500
+
+Total	 Used	 Free
+256000	 500	 255500
+
+-------------------------------
+ID:   P1 	 Memory: 500
+ID:   P2 	 Memory: 1850
+
+Total	 Used	 Free
+256000	 2350	 253650
+
+-------------------------------
+ID:   P1 	 Memory: 500
+ID:   P2 	 Memory: 1850
+ID:   P3 	 Memory: 1000
+
+Total	 Used	 Free
+256000	 3350	 252650
+
+-------------------------------
+ID:   P1 	 Memory: 500
+ID:   P2 	 Memory: 1850
+ID:   P3 	 Memory: 1000
+ID:   P4 	 Memory: 2000
+
+Total	 Used	 Free
+256000	 5350	 250650
+
+-------------------------------
+ID:   P1 	 Memory: 500
+ID:   P2 	 Memory: 1850
+ID:   P3 	 Memory: 1000
+ID:   P4 	 Memory: 2000
+ID:   P5 	 Memory: 200
+
+Total	 Used	 Free
+256000	 5550	 250450
+
+-------------------------------
+ID:   P1 	 Memory: 500
+ID:   FREE 	 Memory: 1850
+ID:   P3 	 Memory: 1000
+ID:   P4 	 Memory: 2000
+ID:   P5 	 Memory: 200
+
+Total	 Used	 Free
+256000	 3700	 252300
+
+-------------------------------
+ID:   P1 	 Memory: 500
+ID:   FREE 	 Memory: 1850
+ID:   P3 	 Memory: 1000
+ID:   FREE 	 Memory: 2000
+ID:   P5 	 Memory: 200
+
+Total	 Used	 Free
+256000	 1700	 254300
+
+-------------------------------
+ID:   P1 	 Memory: 500
+ID:   P6 	 Memory: 400
+ID:   FREE 	 Memory: 1450
+ID:   P3 	 Memory: 1000
+ID:   FREE 	 Memory: 2000
+ID:   P5 	 Memory: 200
+
+Total	 Used	 Free
+256000	 2100	 253900
+
+-------------------------------
+ID:   P1 	 Memory: 500
+ID:   P6 	 Memory: 400
+ID:   P7 	 Memory: 500
+ID:   FREE 	 Memory: 950
+ID:   P3 	 Memory: 1000
+ID:   FREE 	 Memory: 2000
+ID:   P5 	 Memory: 200
+
+Total	 Used	 Free
+256000	 2600	 253400
+
+-------------------------------
+ID:   P1 	 Memory: 500
+ID:   P6 	 Memory: 400
+ID:   P7 	 Memory: 500
+ID:   FREE 	 Memory: 3950
+ID:   P5 	 Memory: 200
+
+Total	 Used	 Free
+256000	 1600	 254400
+
+-------------------------------
+ID:   P1 	 Memory: 500
+ID:   FREE 	 Memory: 400
+ID:   P7 	 Memory: 500
+ID:   FREE 	 Memory: 3950
+ID:   P5 	 Memory: 200
+
+Total	 Used	 Free
+256000	 1200	 254800
+
+-------------------------------
+ID:   P1 	 Memory: 500
+ID:   FREE 	 Memory: 4850
+ID:   P5 	 Memory: 200
+
+Total	 Used	 Free
+256000	 700	 255300
+
+-------------------------------
+ID:   FREE 	 Memory: 5350
+ID:   P5 	 Memory: 200
+
+Total	 Used	 Free
+256000	 200	 255800
+
+-------------------------------
+ID:   FREE 	 Memory: 5550
+
+Total	 Used	 Free
+256000	 0	 256000
+
+-------------------------------
+
+
+**********************
+Segmentation - First Fit
+**********************
+
+ID:   P1 	 Memory: 250
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 50
+
+Total	 Used	 Free
+256000	 500	 255500
+
+-------------------------------
+ID:   P1 	 Memory: 250
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 50
+ID:   P2 	 Memory: 300
+ID:   P2 	 Memory: 800
+ID:   P2 	 Memory: 750
+
+Total	 Used	 Free
+256000	 2350	 253650
+
+-------------------------------
+ID:   P1 	 Memory: 250
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 50
+ID:   P2 	 Memory: 300
+ID:   P2 	 Memory: 800
+ID:   P2 	 Memory: 750
+ID:   P3 	 Memory: 100
+ID:   P3 	 Memory: 200
+ID:   P3 	 Memory: 300
+ID:   P3 	 Memory: 400
+
+Total	 Used	 Free
+256000	 3350	 252650
+
+-------------------------------
+ID:   P1 	 Memory: 250
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 50
+ID:   P2 	 Memory: 300
+ID:   P2 	 Memory: 800
+ID:   P2 	 Memory: 750
+ID:   P3 	 Memory: 100
+ID:   P3 	 Memory: 200
+ID:   P3 	 Memory: 300
+ID:   P3 	 Memory: 400
+ID:   P4 	 Memory: 1000
+ID:   P4 	 Memory: 750
+ID:   P4 	 Memory: 250
+
+Total	 Used	 Free
+256000	 5350	 250650
+
+-------------------------------
+ID:   P1 	 Memory: 250
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 50
+ID:   P2 	 Memory: 300
+ID:   P2 	 Memory: 800
+ID:   P2 	 Memory: 750
+ID:   P3 	 Memory: 100
+ID:   P3 	 Memory: 200
+ID:   P3 	 Memory: 300
+ID:   P3 	 Memory: 400
+ID:   P4 	 Memory: 1000
+ID:   P4 	 Memory: 750
+ID:   P4 	 Memory: 250
+ID:   P5 	 Memory: 100
+ID:   P5 	 Memory: 100
+
+Total	 Used	 Free
+256000	 5550	 250450
+
+-------------------------------
+ID:   P1 	 Memory: 250
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 50
+ID:   FREE 	 Memory: 1850
+ID:   P3 	 Memory: 100
+ID:   P3 	 Memory: 200
+ID:   P3 	 Memory: 300
+ID:   P3 	 Memory: 400
+ID:   P4 	 Memory: 1000
+ID:   P4 	 Memory: 750
+ID:   P4 	 Memory: 250
+ID:   P5 	 Memory: 100
+ID:   P5 	 Memory: 100
+
+Total	 Used	 Free
+256000	 3700	 252300
+
+-------------------------------
+ID:   P1 	 Memory: 250
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 50
+ID:   FREE 	 Memory: 1850
+ID:   P3 	 Memory: 100
+ID:   P3 	 Memory: 200
+ID:   P3 	 Memory: 300
+ID:   P3 	 Memory: 400
+ID:   FREE 	 Memory: 2000
+ID:   P5 	 Memory: 100
+ID:   P5 	 Memory: 100
+
+Total	 Used	 Free
+256000	 1700	 254300
+
+-------------------------------
+ID:   P1 	 Memory: 250
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 50
+ID:   P6 	 Memory: 250
+ID:   P6 	 Memory: 150
+ID:   FREE 	 Memory: 1450
+ID:   P3 	 Memory: 100
+ID:   P3 	 Memory: 200
+ID:   P3 	 Memory: 300
+ID:   P3 	 Memory: 400
+ID:   FREE 	 Memory: 2000
+ID:   P5 	 Memory: 100
+ID:   P5 	 Memory: 100
+
+Total	 Used	 Free
+256000	 2100	 253900
+
+-------------------------------
+ID:   P1 	 Memory: 250
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 50
+ID:   P6 	 Memory: 250
+ID:   P6 	 Memory: 150
+ID:   P7 	 Memory: 250
+ID:   P7 	 Memory: 250
+ID:   FREE 	 Memory: 950
+ID:   P3 	 Memory: 100
+ID:   P3 	 Memory: 200
+ID:   P3 	 Memory: 300
+ID:   P3 	 Memory: 400
+ID:   FREE 	 Memory: 2000
+ID:   P5 	 Memory: 100
+ID:   P5 	 Memory: 100
+
+Total	 Used	 Free
+256000	 2600	 253400
+
+-------------------------------
+ID:   P1 	 Memory: 250
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 50
+ID:   P6 	 Memory: 250
+ID:   P6 	 Memory: 150
+ID:   P7 	 Memory: 250
+ID:   P7 	 Memory: 250
+ID:   FREE 	 Memory: 3950
+ID:   P5 	 Memory: 100
+ID:   P5 	 Memory: 100
+
+Total	 Used	 Free
+256000	 1600	 254400
+
+-------------------------------
+ID:   P1 	 Memory: 250
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 50
+ID:   FREE 	 Memory: 400
+ID:   P7 	 Memory: 250
+ID:   P7 	 Memory: 250
+ID:   FREE 	 Memory: 3950
+ID:   P5 	 Memory: 100
+ID:   P5 	 Memory: 100
+
+Total	 Used	 Free
+256000	 1200	 254800
+
+-------------------------------
+ID:   P1 	 Memory: 250
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 50
+ID:   FREE 	 Memory: 4850
+ID:   P5 	 Memory: 100
+ID:   P5 	 Memory: 100
+
+Total	 Used	 Free
+256000	 700	 255300
+
+-------------------------------
+ID:   FREE 	 Memory: 5350
+ID:   P5 	 Memory: 100
+ID:   P5 	 Memory: 100
+
+Total	 Used	 Free
+256000	 200	 255800
+
+-------------------------------
+ID:   FREE 	 Memory: 5550
+
+Total	 Used	 Free
+256000	 0	 256000
+
+-------------------------------
+**********************
+Contiguous - Worst Fit
+**********************
+ID:   P1 	 Memory: 500
+
+Total	 Used	 Free
+256000	 500	 255500
+
+-------------------------------
+ID:   P1 	 Memory: 500
+ID:   P2 	 Memory: 1850
+
+Total	 Used	 Free
+256000	 2350	 253650
+
+-------------------------------
+ID:   P1 	 Memory: 500
+ID:   P2 	 Memory: 1850
+ID:   P3 	 Memory: 1000
+
+Total	 Used	 Free
+256000	 3350	 252650
+
+-------------------------------
+ID:   P1 	 Memory: 500
+ID:   P2 	 Memory: 1850
+ID:   P3 	 Memory: 1000
+ID:   P4 	 Memory: 2000
+
+Total	 Used	 Free
+256000	 5350	 250650
+
+-------------------------------
+ID:   P1 	 Memory: 500
+ID:   P2 	 Memory: 1850
+ID:   P3 	 Memory: 1000
+ID:   P4 	 Memory: 2000
+ID:   P5 	 Memory: 200
+
+Total	 Used	 Free
+256000	 5550	 250450
+
+-------------------------------
+ID:   P1 	 Memory: 500
+ID:   FREE 	 Memory: 1850
+ID:   P3 	 Memory: 1000
+ID:   P4 	 Memory: 2000
+ID:   P5 	 Memory: 200
+
+Total	 Used	 Free
+256000	 3700	 252300
+
+-------------------------------
+ID:   P1 	 Memory: 500
+ID:   FREE 	 Memory: 1850
+ID:   P3 	 Memory: 1000
+ID:   FREE 	 Memory: 2000
+ID:   P5 	 Memory: 200
+
+Total	 Used	 Free
+256000	 1700	 254300
+
+-------------------------------
+ID:   P1 	 Memory: 500
+ID:   FREE 	 Memory: 1850
+ID:   P3 	 Memory: 1000
+ID:   P6 	 Memory: 400
+ID:   FREE 	 Memory: 1600
+ID:   P5 	 Memory: 200
+
+Total	 Used	 Free
+256000	 2100	 253900
+
+-------------------------------
+ID:   P1 	 Memory: 500
+ID:   P7 	 Memory: 500
+ID:   FREE 	 Memory: 1350
+ID:   P3 	 Memory: 1000
+ID:   P6 	 Memory: 400
+ID:   FREE 	 Memory: 1600
+ID:   P5 	 Memory: 200
+
+Total	 Used	 Free
+256000	 2600	 253400
+
+-------------------------------
+ID:   P1 	 Memory: 500
+ID:   P7 	 Memory: 500
+ID:   FREE 	 Memory: 2350
+ID:   P6 	 Memory: 400
+ID:   FREE 	 Memory: 1600
+ID:   P5 	 Memory: 200
+
+Total	 Used	 Free
+256000	 1600	 254400
+
+-------------------------------
+ID:   P1 	 Memory: 500
+ID:   P7 	 Memory: 500
+ID:   FREE 	 Memory: 4350
+ID:   P5 	 Memory: 200
+
+Total	 Used	 Free
+256000	 1200	 254800
+
+-------------------------------
+ID:   P1 	 Memory: 500
+ID:   FREE 	 Memory: 4850
+ID:   P5 	 Memory: 200
+
+Total	 Used	 Free
+256000	 700	 255300
+
+-------------------------------
+ID:   FREE 	 Memory: 5350
+ID:   P5 	 Memory: 200
+
+Total	 Used	 Free
+256000	 200	 255800
+
+-------------------------------
+ID:   FREE 	 Memory: 5550
+
+Total	 Used	 Free
+256000	 0	 256000
+
+-------------------------------
+
+
+**********************
+Segmentation - Worst Fit
+**********************
+
+ID:   P1 	 Memory: 250
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 50
+
+Total	 Used	 Free
+256000	 500	 255500
+
+-------------------------------
+ID:   P1 	 Memory: 250
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 50
+ID:   P2 	 Memory: 300
+ID:   P2 	 Memory: 800
+ID:   P2 	 Memory: 750
+
+Total	 Used	 Free
+256000	 2350	 253650
+
+-------------------------------
+ID:   P1 	 Memory: 250
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 50
+ID:   P2 	 Memory: 300
+ID:   P2 	 Memory: 800
+ID:   P2 	 Memory: 750
+ID:   P3 	 Memory: 100
+ID:   P3 	 Memory: 200
+ID:   P3 	 Memory: 300
+ID:   P3 	 Memory: 400
+
+Total	 Used	 Free
+256000	 3350	 252650
+
+-------------------------------
+ID:   P1 	 Memory: 250
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 50
+ID:   P2 	 Memory: 300
+ID:   P2 	 Memory: 800
+ID:   P2 	 Memory: 750
+ID:   P3 	 Memory: 100
+ID:   P3 	 Memory: 200
+ID:   P3 	 Memory: 300
+ID:   P3 	 Memory: 400
+ID:   P4 	 Memory: 1000
+ID:   P4 	 Memory: 750
+ID:   P4 	 Memory: 250
+
+Total	 Used	 Free
+256000	 5350	 250650
+
+-------------------------------
+ID:   P1 	 Memory: 250
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 50
+ID:   P2 	 Memory: 300
+ID:   P2 	 Memory: 800
+ID:   P2 	 Memory: 750
+ID:   P3 	 Memory: 100
+ID:   P3 	 Memory: 200
+ID:   P3 	 Memory: 300
+ID:   P3 	 Memory: 400
+ID:   P4 	 Memory: 1000
+ID:   P4 	 Memory: 750
+ID:   P4 	 Memory: 250
+ID:   P5 	 Memory: 100
+ID:   P5 	 Memory: 100
+
+Total	 Used	 Free
+256000	 5550	 250450
+
+-------------------------------
+ID:   P1 	 Memory: 250
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 50
+ID:   FREE 	 Memory: 1850
+ID:   P3 	 Memory: 100
+ID:   P3 	 Memory: 200
+ID:   P3 	 Memory: 300
+ID:   P3 	 Memory: 400
+ID:   P4 	 Memory: 1000
+ID:   P4 	 Memory: 750
+ID:   P4 	 Memory: 250
+ID:   P5 	 Memory: 100
+ID:   P5 	 Memory: 100
+
+Total	 Used	 Free
+256000	 3700	 252300
+
+-------------------------------
+ID:   P1 	 Memory: 250
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 50
+ID:   FREE 	 Memory: 1850
+ID:   P3 	 Memory: 100
+ID:   P3 	 Memory: 200
+ID:   P3 	 Memory: 300
+ID:   P3 	 Memory: 400
+ID:   FREE 	 Memory: 2000
+ID:   P5 	 Memory: 100
+ID:   P5 	 Memory: 100
+
+Total	 Used	 Free
+256000	 1700	 254300
+
+-------------------------------
+ID:   P1 	 Memory: 250
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 50
+ID:   P6 	 Memory: 150
+ID:   FREE 	 Memory: 1700
+ID:   P3 	 Memory: 100
+ID:   P3 	 Memory: 200
+ID:   P3 	 Memory: 300
+ID:   P3 	 Memory: 400
+ID:   P6 	 Memory: 250
+ID:   FREE 	 Memory: 1750
+ID:   P5 	 Memory: 100
+ID:   P5 	 Memory: 100
+
+Total	 Used	 Free
+256000	 2100	 253900
+
+-------------------------------
+ID:   P1 	 Memory: 250
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 50
+ID:   P6 	 Memory: 150
+ID:   P7 	 Memory: 250
+ID:   FREE 	 Memory: 1450
+ID:   P3 	 Memory: 100
+ID:   P3 	 Memory: 200
+ID:   P3 	 Memory: 300
+ID:   P3 	 Memory: 400
+ID:   P6 	 Memory: 250
+ID:   P7 	 Memory: 250
+ID:   FREE 	 Memory: 1500
+ID:   P5 	 Memory: 100
+ID:   P5 	 Memory: 100
+
+Total	 Used	 Free
+256000	 2600	 253400
+
+-------------------------------
+ID:   P1 	 Memory: 250
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 50
+ID:   P6 	 Memory: 150
+ID:   P7 	 Memory: 250
+ID:   FREE 	 Memory: 2450
+ID:   P6 	 Memory: 250
+ID:   P7 	 Memory: 250
+ID:   FREE 	 Memory: 1500
+ID:   P5 	 Memory: 100
+ID:   P5 	 Memory: 100
+
+Total	 Used	 Free
+256000	 1600	 254400
+
+-------------------------------
+ID:   P1 	 Memory: 250
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 50
+ID:   FREE 	 Memory: 150
+ID:   P7 	 Memory: 250
+ID:   FREE 	 Memory: 2700
+ID:   P7 	 Memory: 250
+ID:   FREE 	 Memory: 1500
+ID:   P5 	 Memory: 100
+ID:   P5 	 Memory: 100
+
+Total	 Used	 Free
+256000	 1200	 254800
+
+-------------------------------
+ID:   P1 	 Memory: 250
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 100
+ID:   P1 	 Memory: 50
+ID:   FREE 	 Memory: 4850
+ID:   P5 	 Memory: 100
+ID:   P5 	 Memory: 100
+
+Total	 Used	 Free
+256000	 700	 255300
+
+-------------------------------
+ID:   FREE 	 Memory: 5350
+ID:   P5 	 Memory: 100
+ID:   P5 	 Memory: 100
+
+Total	 Used	 Free
+256000	 200	 255800
+
+-------------------------------
+ID:   FREE 	 Memory: 5550
+
+Total	 Used	 Free
+256000	 0	 256000
+
+-------------------------------
